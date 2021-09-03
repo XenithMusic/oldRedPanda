@@ -18,7 +18,13 @@ var res cmd > lib console
 ```
 This declares a resource variable named cmd which points to the library console.
 
+### Optional libraries, and their purposes
+
+Looks like we havent installed any libraries that are pre-installed with python!
+
 ### Installation guide
+
+(note: you have to install python to use this program, we recommend python 3.7.5)
 
 1. Download the zip file containing the latest version of RedPanda (which currently is unreleased)
 2. Unzip it to its own folder
