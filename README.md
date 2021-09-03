@@ -1,3 +1,7 @@
+# WARNING:
+
+This is an old repository. Check XenithMusic/RedPanda for the new one!
+
 # RedPanda
 
 ### Notices
