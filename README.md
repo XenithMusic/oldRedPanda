@@ -1,6 +1,6 @@
 # WARNING:
 
-This is an old repository. Check XenithMusic/RedPanda for the new one!
+This is an old repository. Check [XenithMusic/RedPanda](https://github.com/XenithMusic/RedPanda) for the new one!
 
 # RedPanda
 
